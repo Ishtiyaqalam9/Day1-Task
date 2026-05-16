@@ -6,3 +6,4 @@ def greet():
     print("Welcome to greet Branching")
 
 greet()
+print("Day3 Github Practice")
